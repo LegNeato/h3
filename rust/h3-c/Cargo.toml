@@ -1,6 +1,8 @@
 [package]
 name = "h3-c"
-version = "C interface for the hexagonal hierarchical geospatial indexing system"
+description = "C interface for the hexagonal hierarchical geospatial indexing system"
+version = "0.1.0"
+license = "Apache-2.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
